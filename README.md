@@ -6,7 +6,7 @@
 
 <p align="center"
 
-[RENTRY](https://rentry.co/invictus) ‧ [RETROSPRiNG](https://retrospring.net/@fennebat) ‧ [NEOSPRiNG](https://neospring.org/@fennebat) ‧ [ATABOOK](https://fennebat.atabook.org/)
+[RENTRY](https://rentry.co/invictus) ‧ [RETROSPRiNG](https://retrospring.net/@fennebat) ‧ [NEOSPRiNG](https://neospring.org/@puddle) ‧ [ATABOOK](https://fennebat.atabook.org/)
 </p>
 
 <p align="center">
